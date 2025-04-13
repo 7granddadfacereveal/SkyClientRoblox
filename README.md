@@ -15,6 +15,8 @@
     <b>Alot of scripts I have made, never reached that amount, I actually accidentally found someone using it, I was proud people were using it, considering how bad it is.</b>
     <b>There, I decided to take the other path, and not continue sky client</b>
     <h2>How did I create skyclient?</h2>
-    <b>Sky client was inspired off of</b> <a href="https://github.com/7GrandDadPGN/VapeV4ForRoblox">Vape V4</a> <b>by 7GrandDadPGN</b>
+    <b>Sky client was inspired off of</b> <a href="https://github.com/7GrandDadPGN/VapeV4ForRoblox">Vape V4</a> <b>by 7GrandDadPGN.</b>
+    <b>The UI was inspired by it too!</b>
+    <b>You can use skyclient here: </b>
   </div>
 </div>
