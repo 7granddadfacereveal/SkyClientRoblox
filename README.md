@@ -6,6 +6,6 @@
     <b>Sky clent was one of the many scripts I actually took seriously</b>
     <br>
     <b>With over 3k-2k people using it</b>
-    <br>>b>It was once uploaeded by my friend <i>epicfiedten</i> or now called <i>abondanded</i></b>
+    <br><b>It was once uploaeded by my friend <i>epicfiedten</i> or now called <i>abondanded</i></b>
   </div>
 </div>
