@@ -11,6 +11,10 @@
     <b>Sky client, was an script for skywars, I saw nobody really had created an script for it so I decided, why not make an script for it?</b>
     <b>Now for the time, I owned it, alot of people used it and was I proud.</b>
     <h2>The trouble</h2>
-    
+    <b>There, it began, the troubling, my script was successful until, I completely dont know whether I should continue this good script that over 2k people have used.</b>
+    <b>Alot of scripts I have made, never reached that amount, I actually accidentally found someone using it, I was proud people were using it, considering how bad it is.</b>
+    <b>There, I decided to take the other path, and not continue sky client</b>
+    <h2>How did I create skyclient?</h2>
+    <b>Sky client was inspired off of</b> <a href="https://github.com/7GrandDadPGN/VapeV4ForRoblox">Vape V4</a> <b>by 7GrandDadPGN</b>
   </div>
 </div>
